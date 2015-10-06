@@ -9,9 +9,10 @@
 	
 	
 <gap:platform name="android" />
-
-<!-- not theses
 <gap:platform name="ios" />
+
+<!-- not these
+
 <gap:platform name="winphone" />
 -->
 
